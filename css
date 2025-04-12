@@ -1,0 +1,40 @@
+nav {
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid SteelBlue;
+}
+nav a {
+    margin: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    font-family: sans-serif;
+}
+header a {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color:black  ;
+    border: 3px solid rgb(120, 139, 184);
+    border-radius: 10px;
+    background-color: rgba(120, 139, 184);
+} 
+header { 
+    background-color: rgb(64, 121, 167);
+}
+h1 {
+    text-align: center;
+}
+main {
+    background-color: LightCyan;
+}
+footer {
+    background-color: SteelBlue;
+    padding: 10PX;
+}
+footer p {
+    background-color: lightcyan;
+}
